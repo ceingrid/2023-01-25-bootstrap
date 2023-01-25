@@ -1,0 +1,12 @@
+.slide-photo {
+    height: 500px;
+    /* max-width: 1900px; */
+    object-fit: none;
+    object-position: 50% 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text-center {
+    margin-top: 60px;
+}
